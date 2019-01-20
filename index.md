@@ -16,8 +16,8 @@ The document is managed on GitHub and uses Markdown for contributions. If you do
     * [Verdict](#verdict)
 * [Content Platforms](#content-platforms)
   * [Medium](#medium)
-    * [Evidence](#evidence)
-    * [Verdict](#verdict)
+    * [Evidence](#evidence-1)
+    * [Verdict](#verdict-1)
 
 ## Online Surveys
 
