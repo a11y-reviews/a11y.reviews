@@ -14,6 +14,10 @@ The document is managed on GitHub and uses Markdown for contributions. If you do
   * [Typeform](#typeform)
     * [Evidence](#evidence)
     * [Verdict](#verdict)
+* [Content Platforms](#content-platforms)
+  * [Medium](#medium)
+    * [Evidence](#evidence)
+    * [Verdict](#verdict)
 
 ## Online Surveys
 
@@ -37,3 +41,26 @@ There is no public bug tracker to follow issues.
 #### Verdict
 
 For any organization that needs to meet WCAG 2.x, whether by law or other requirements, do not use Typeform.
+
+## Content Platforms
+
+This can include web content management systems or other tools that allow authors to post their writing for broad consumption on the web.
+
+### Medium
+
+Medium has no method to provide alternative text for images. Some authors get around this by adding a description of the image in the caption, but screen readers will often announce the file name of the image instead.
+
+Medium does not support tables for data grids. Authors get around this by posting screen shots of tables. These screen shots also do not have alternative text.
+
+Medium can make it difficult for some authors to identify how to structure content correctly, resulting in bullet lists that are just lines preceded by asterisks, or headings that are just bold text.
+
+#### Evidence
+
+* Medium's support pages describe [how to upload an image](https://help.medium.com/hc/en-us/articles/215679797-Images), but offer no guidance on how to support screen reader users nor users who may have been unable to load the images.
+* Pointer to [incorrect bullets](https://twitter.com/aardrian/status/1086639530856321024) in a Medium post.
+* Pointer to [incorrect headings](https://twitter.com/aardrian/status/1083355862402506752) in a Medium post.
+* Screen shot of an[incorrect table](https://twitter.com/aardrian/status/923536098734891009) in a Medium post.
+
+#### Verdict
+
+For any organization whose content needs to meet WCAG 2.x, whether by law or other requirements, do not use Medium.
