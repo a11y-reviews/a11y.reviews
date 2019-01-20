@@ -1,6 +1,6 @@
 ---
 layout: default
-title: a11y.reviews
+title: Accessibility Reviews
 description: Community reviews on the accessibility of tools and services.
 ---
 
