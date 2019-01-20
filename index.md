@@ -10,6 +10,11 @@ If you have experience with a resource and how accessible it may or may not be, 
 
 The document is managed on GitHub and uses Markdown for contributions. If you do not use GitHub and/or Markdown, you can still submit via email (email address needed). At launch, this has been seeded with one review to demonstrate the format.
 
+* [Online Surveys](#online-surveys)
+  * [Typeform](#typeform)
+    * [Evidence](#evidence)
+    * [Verdict](#verdict)
+
 ## Online Surveys
 
 Tools used for polls, surveys, or questionnaires.
@@ -28,3 +33,7 @@ There is no public bug tracker to follow issues.
 * 12 July 2016, [Twitter response saying accessibility is on a roadmap](https://twitter.com/typeform/status/752992486784700416).
 * 5 September 2016, [Typeform offers a plain HTML fallback](https://twitter.com/typeform/status/772754674621513728), screen reader user (appropriately) dismisses it.
 * 17 November 2017, [screen shot of how forms fall apart on zoom](https://twitter.com/stommepoes/status/931518521036681216).
+
+#### Verdict
+
+For any organization that needs to meet WCAG 2.x, whether by law or other requirements, do not use Typeform.
