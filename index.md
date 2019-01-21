@@ -8,7 +8,7 @@ A community-driven resource to both find and share information on the accessibil
 
 If you have experience with a resource and how accessible it may or may not be, please contribute. Ideally, if you follow the existing format this will be much easier for others to use as well as for us to maintain.
 
-The document is managed on GitHub and uses Markdown for contributions. If you do not use GitHub and/or Markdown, you can still submit via email (email address needed). At launch, this has been seeded with one review to demonstrate the format.
+The document is managed on GitHub and uses Markdown for contributions. If you do not use GitHub and/or Markdown, you can still submit via email (email address still needed). At launch, this has been seeded with three reviews to demonstrate the format.
 
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}
