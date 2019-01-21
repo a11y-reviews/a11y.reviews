@@ -10,14 +10,8 @@ If you have experience with a resource and how accessible it may or may not be, 
 
 The document is managed on GitHub and uses Markdown for contributions. If you do not use GitHub and/or Markdown, you can still submit via email (email address needed). At launch, this has been seeded with one review to demonstrate the format.
 
-* [Online Surveys](#online-surveys)
-  * [Typeform](#typeform)
-    * [Evidence](#evidence)
-    * [Verdict](#verdict)
-* [Content Platforms](#content-platforms)
-  * [Medium](#medium)
-    * [Evidence](#evidence-1)
-    * [Verdict](#verdict-1)
+* this unordered seed list will be replaced by toc as unordered list
+{:toc}
 
 ## Online Surveys
 
