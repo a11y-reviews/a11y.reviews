@@ -23,7 +23,7 @@ Typeform generally does not work with screen readers across platforms. Field lab
 
 There is no public bug tracker to follow issues.
 
-#### Evidence
+#### References
 
 * [Bug reported 23 February 2016](https://twitter.com/aardrian/status/702301348381986816), screen shots attached.
 * 25 February 2016, [screen shot of email response from Typeform](https://twitter.com/aardrian/status/703000834750214145) declining to give an ETA for accessibility fixes.
@@ -32,7 +32,7 @@ There is no public bug tracker to follow issues.
 * 5 September 2016, [Typeform offers a plain HTML fallback](https://twitter.com/typeform/status/772754674621513728), screen reader user (appropriately) dismisses it.
 * 17 November 2017, [screen shot of how forms fall apart on zoom](https://twitter.com/stommepoes/status/931518521036681216).
 
-#### Verdict
+#### Suggestion
 
 For any organization that needs to meet WCAG 2.x, whether by law or other requirements, do not use Typeform.
 
@@ -48,13 +48,23 @@ Medium does not support tables for data grids. Authors get around this by postin
 
 Medium can make it difficult for some authors to identify how to structure content correctly, resulting in bullet lists that are just lines preceded by asterisks, or headings that are just bold text.
 
-#### Evidence
+#### References
 
 * Medium's support pages describe [how to upload an image](https://help.medium.com/hc/en-us/articles/215679797-Images), but offer no guidance on how to support screen reader users nor users who may have been unable to load the images.
 * Pointer to [incorrect bullets](https://twitter.com/aardrian/status/1086639530856321024) in a Medium post.
 * Pointer to [incorrect headings](https://twitter.com/aardrian/status/1083355862402506752) in a Medium post.
 * Screen shot of an[incorrect table](https://twitter.com/aardrian/status/923536098734891009) in a Medium post.
 
-#### Verdict
+#### Suggestion
 
 For any organization whose content needs to meet WCAG 2.x, whether by law or other requirements, do not use Medium.
+
+## Video Conferencing
+
+### Zoom
+
+From polling blind JAWS users, Zoom works well for setting up calls and participating via audio only.
+
+#### Suggestion
+
+Zoom is generally accessible.
