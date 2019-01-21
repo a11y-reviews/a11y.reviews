@@ -14,19 +14,20 @@
 
 		<style>
 		body{font-family:"Segoe UI",-apple-system,BlinkMacSystemFont,Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;line-height:1.5;}
-		h1,h2{line-height:1.2;}
+		h1,h2,h3,h4,h5,h6{line-height:1.2;}
+		h2{margin-top:3em;}
 		svg path{fill:#000;}
 		ol{list-style-type:decimal;margin-top:.5em;}
 		ol ol{list-style-type:lower-alpha;}
 		ol ol ol{list-style-type:lower-roman;}
-		li{margin-bottom:.5em;}	
+		li{margin-top:.5em;}	
 		footer{margin-top:4em;}
 		@media screen {body{background-color:#f5f5f5;color:#333;}main,header,footer{max-width:50em;margin-left:auto;margin-right:auto;font-size:120%;}}
 		@media screen and (-ms-high-contrast: active) {svg path{fill:windowText;}}
-		@media print {header svg{max-width:5in;}header::before{content: url(http://chart.apis.google.com/chart?chs=120x120&cht=qr&chl=http%3A%2F%2Fdoesmysitedeserverecognition.com%2F);position:absolute;top:-.125in;right:-.125in;}body{color:#000;}li::before{content:'';display:inline-block;width:1em;height:1em;box-sizing:border-box;border:.1em solid #000;margin:0 .5em -.15em 0;}main a[href]::after{content:" [" attr(href)"]";word-wrap:break-word;}a:link,a:visited{color:#000;text-decoration:none;}li{orphans:2;widows:2;}}
+		@media print {header svg{max-width:5in;}header::before{content: url(http://chart.apis.google.com/chart?chs=120x120&cht=qr&chl=http%3A%2F%2Fdoesmysitedeserverecognition.com%2F);position:absolute;top:-.125in;right:-.125in;}body{color:#000;}main a[href]::after{content:" [" attr(href)"]";word-wrap:break-word;}a:link,a:visited{color:#000;text-decoration:none;}li{orphans:2;widows:2;}}
 		</style>
 
-		<meta name="description" content="">
+		<meta name="description" content="A community-driven resource to both find and share information on the accessibility of tools, services, platforms, and so on.">
 		<meta name="news_keywords" content="accessibility">
 		<meta name="original-source" content="https://a11y.reviews/">
 
@@ -60,11 +61,14 @@
 		</main>
 
 		<footer>
-			<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+			<p>
+			<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"  alt="Creative Commons License"></a>
 			<br />
 			This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> (CC BY-NC-SA 4.0). Copyright 2019 <a href="https://github.com/a11y-reviews/a11y.reviews/graphs/contributors">a11y.reviews contributors</a>.
-			<br />
-			<a href="https://github.com/a11y-reviews/a11y.reviews/edit/master/{{ page.path }}">Edit this page</a> or <a href="https://github.com/a11y-reviews/a11y.reviews/issues/new">file an issue</a> on GitHub.</p>
+			</p>
+			<p>
+			<a href="https://github.com/a11y-reviews/a11y.reviews/edit/master/{{ page.path }}">Edit this page</a> or <a href="https://github.com/a11y-reviews/a11y.reviews/issues/new">file an issue</a> on GitHub. Read the <a href="http://adrianroselli.com/2019/01/announcing-a11y-reviews.html">post announcing this site</a>.
+			</p>
 		</footer>
 	</body>
 </html>
