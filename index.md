@@ -19,11 +19,16 @@ Tools used for polls, surveys, or questionnaires.
 
 ### Survey Monkey
 
-Took a [Smashing Magazine survey](https://www.surveymonkey.co.uk/r/survey-smashing-team) using JAWS with Internet Explorer 11. No insight into how the form was set up and/or if special care was taken.
+Took a [Smashing Magazine survey](https://www.surveymonkey.co.uk/r/survey-smashing-team) using JAWS with Internet Explorer 11. It appears no special work needs to be done when setting up a form.
+
+#### References
+
+* Confirmed [no special adjustments made](https://twitter.com/indysigner/status/1087760016323563520) for the form to work with JAWS/IE11.
+* Users had raised issues with TypeForm, [no issues raised since moving to SurveyMonkey](https://twitter.com/indysigner/status/1087763172436701186) in response.
 
 #### Suggestion
 
-A SurveyMonkey form can be accessible to a JAWS / Internet Explorer 11 user.
+A SurveyMonkey form is accessible to a JAWS / Internet Explorer 11 user. If you are using other SR/browser combinations, please let us know.
 
 ### Typeform
 
