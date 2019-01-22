@@ -17,6 +17,14 @@ The document is managed on GitHub and uses Markdown for contributions. If you do
 
 Tools used for polls, surveys, or questionnaires.
 
+### Survey Monkey
+
+Took a [Smashing Magazine survey](https://www.surveymonkey.co.uk/r/survey-smashing-team) using JAWS with Internet Explorer 11. No insight into how the form was set up and/or if special care was taken.
+
+#### Suggestion
+
+A SurveyMonkey form can be accessible to a JAWS / Internet Explorer 11 user.
+
 ### Typeform
 
 Typeform generally does not work with screen readers across platforms. Field labels are not exposed correctly, question navigation is problematic, and answers are not consistently exposed. Color contrast is below WCAG minimums.
