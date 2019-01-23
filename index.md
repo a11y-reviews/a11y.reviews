@@ -38,6 +38,18 @@ Took a [U of Colorado survey](https://www.surveygizmo.com/s3/4724778/Universal-D
 
 A SurveyGizmo form is accessible to a JAWS / Internet Explorer 11 user. If you are using another SR/browser combination, please add to this.
 
+### Formstack
+
+Took an IAAP survey using JAWS with Internet Explorer 11.
+
+#### References
+
+Questions scrolled way off screen, headings were imperfect. All questions could be navigated and answered. Error messages were not inline (for radio buttons at least) and the overall error message was a very long run-on list of error text as a live region that caused JAWS to choke and stutter instead of announcing them all.
+
+#### Suggestion
+
+Formstack may pose problems for JAWS/IE11 users, zoom users, and mobility impaired users.
+
 ### Typeform
 
 Typeform generally does not work with screen readers across platforms. Field labels are not exposed correctly, question navigation is problematic, and answers are not consistently exposed. Color contrast is below WCAG minimums.
