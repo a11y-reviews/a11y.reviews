@@ -17,7 +17,7 @@ The document is managed on GitHub and uses Markdown for contributions. If you do
 
 Tools used for polls, surveys, or questionnaires.
 
-### Survey Monkey
+### SurveyMonkey
 
 Took a [Smashing Magazine survey](https://www.surveymonkey.co.uk/r/survey-smashing-team) using JAWS with Internet Explorer 11. It appears no special work needs to be done when setting up a form.
 
@@ -28,7 +28,15 @@ Took a [Smashing Magazine survey](https://www.surveymonkey.co.uk/r/survey-smashi
 
 #### Suggestion
 
-A SurveyMonkey form is accessible to a JAWS / Internet Explorer 11 user. If you are using other SR/browser combinations, please let us know.
+A SurveyMonkey form is accessible to a JAWS / Internet Explorer 11 user. If you are using other SR/browser combinations, please add to this.
+
+### SurveyGizmo
+
+Took a [U of Colorado survey](https://www.surveygizmo.com/s3/4724778/Universal-Design-Accessibility-Topics-in-College-Curriculum) using JAWS with Internet Explorer 11.
+
+#### Suggestion
+
+A SurveyGizmo form is accessible to a JAWS / Internet Explorer 11 user. If you are using another SR/browser combination, please add to this.
 
 ### Typeform
 
