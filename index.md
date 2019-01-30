@@ -69,6 +69,19 @@ There is no public bug tracker to follow issues.
 
 For any organization that needs to meet WCAG 2.x, whether by law or other requirements, do not use Typeform.
 
+### Google Forms
+
+December 2018. Created [a form (Dutch)](https://docs.google.com/forms/d/1wCBVwPQ77lNlWLArQbrM-AH4atepsUphiffDAAfwDgc/viewform?ts=5bebf5a7&edit_requested=true) and tested with VoiceOver/Safari and Jaws/IE 11. 
+
+#### References
+
+* Overuse and wrong use of ARIA
+* Not WCAG compliant
+
+#### Suggestions
+
+It is possible to fill and submit a Google Form with a screenreader but the more complex components such as linear scale and multiple choice grid can be confusing.
+
 ## Content Platforms
 
 This can include web content management systems or other tools that allow authors to post their writing for broad consumption on the web.
