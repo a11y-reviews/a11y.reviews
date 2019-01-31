@@ -73,6 +73,18 @@ For any organization that needs to meet WCAG 2.x, whether by law or other requir
 
 This can include web content management systems or other tools that allow authors to post their writing for broad consumption on the web.
 
+### Dev.to
+
+Dev.to lets users author their content via Markdown, so they are able to use all of its structuring and semantic features (e.g. regarding headline hierarchy, quotes, images, lists). 
+
+The overall interface contains many links without accessible names, some of them apparently only existing to enlarge the click area - see the article teaser listing. Said teaser listing also infinite scrolling.
+
+Regarding keyboard accessibility: outline on focus is not disabled via CSS, but some elements are reachable only on hover (example: the "Follow" control inside a tag list item). Said control, again, is an anchor element with a `href="#"` but should be a button.
+
+#### Suggestion
+
+For any organization that needs to meet WCAG 2.x, whether by law or other requirements, do not use Dev.to.
+
 ### Medium
 
 Medium has no method to provide alternative text for images. Some authors get around this by adding a description of the image in the caption, but screen readers will often announce the file name of the image instead.
