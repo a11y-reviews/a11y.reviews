@@ -8,7 +8,7 @@ A community-driven resource to both find and share information on the accessibil
 
 If you have experience with a resource and how accessible it may or may not be, please contribute. Ideally, if you follow the existing format this will be much easier for others to use as well as for us to maintain.
 
-The document is managed on GitHub and uses Markdown for contributions. If you do not use GitHub and/or Markdown, you can still submit via email (email address still needed). At launch, this has been seeded with three reviews to demonstrate the format.
+The document is managed on GitHub and uses Markdown for contributions. If you do not use GitHub and/or Markdown, you can still submit via email (email address still needed). Please include the date of your review in the content you submit.
 
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}
@@ -19,7 +19,7 @@ Tools used for polls, surveys, or questionnaires.
 
 ### SurveyMonkey
 
-Took a [Smashing Magazine survey](https://www.surveymonkey.co.uk/r/survey-smashing-team) using JAWS with Internet Explorer 11. It appears no special work needs to be done when setting up a form.
+22 January 2019. Took a [Smashing Magazine survey](https://www.surveymonkey.co.uk/r/survey-smashing-team) using JAWS with Internet Explorer 11. It appears no special work needs to be done when setting up a form.
 
 #### References
 
@@ -32,7 +32,7 @@ A SurveyMonkey form is accessible to a JAWS / Internet Explorer 11 user. If you 
 
 ### SurveyGizmo
 
-Took a [U of Colorado survey](https://www.surveygizmo.com/s3/4724778/Universal-Design-Accessibility-Topics-in-College-Curriculum) using JAWS with Internet Explorer 11.
+22 January 2019. Took a [U of Colorado survey](https://www.surveygizmo.com/s3/4724778/Universal-Design-Accessibility-Topics-in-College-Curriculum) using JAWS with Internet Explorer 11.
 
 #### Suggestion
 
@@ -40,7 +40,7 @@ A SurveyGizmo form is accessible to a JAWS / Internet Explorer 11 user. If you a
 
 ### Formstack
 
-Took an [IAAP survey](https://accessibilityassociation.formstack.com/forms/iaap_procurement_jta_survey) using JAWS with Internet Explorer 11.
+23 January 2019. Took an [IAAP survey](https://accessibilityassociation.formstack.com/forms/iaap_procurement_jta_survey) using JAWS with Internet Explorer 11.
 
 #### References
 
@@ -52,7 +52,7 @@ Formstack may pose problems for JAWS/IE11 users, zoom users, and mobility impair
 
 ### Typeform
 
-Typeform generally does not work with screen readers across platforms. Field labels are not exposed correctly, question navigation is problematic, and answers are not consistently exposed. Color contrast is below WCAG minimums.
+20 January 2019. Typeform generally does not work with screen readers across platforms. Field labels are not exposed correctly, question navigation is problematic, and answers are not consistently exposed. Color contrast is below WCAG minimums.
 
 There is no public bug tracker to follow issues.
 
@@ -88,7 +88,7 @@ This can include web content management systems or other tools that allow author
 
 ### Dev.to
 
-Dev.to lets users author their content via Markdown, so they are able to use all of its structuring and semantic features (e.g. regarding headline hierarchy, quotes, images, lists). 
+31 January 2019. Dev.to lets users author their content via Markdown, so they are able to use all of its structuring and semantic features (e.g. regarding headline hierarchy, quotes, images, lists). 
 
 The overall interface contains many links without accessible names, some of them apparently only existing to enlarge the click area - see the article teaser listing. Said teaser listing also infinite scrolling.
 
@@ -100,7 +100,7 @@ For any organization that needs to meet WCAG 2.x, whether by law or other requir
 
 ### Medium
 
-Medium has no method to provide alternative text for images. Some authors get around this by adding a description of the image in the caption, but screen readers will often announce the file name of the image instead.
+20 January 2019. Medium has no method to provide alternative text for images. Some authors get around this by adding a description of the image in the caption, but screen readers will often announce the file name of the image instead.
 
 Medium does not support tables for data grids. Authors get around this by posting screen shots of tables. These screen shots also do not have alternative text.
 
@@ -121,7 +121,7 @@ For any organization whose content needs to meet WCAG 2.x, whether by law or oth
 
 ### Zoom
 
-From polling blind JAWS users, Zoom works well for setting up calls and participating via audio only.
+21 January 2019. From polling blind JAWS users, Zoom works well for setting up calls and participating via audio only.
 
 #### Suggestion
 
