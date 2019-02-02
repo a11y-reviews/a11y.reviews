@@ -78,9 +78,23 @@ December 2018. Created [a form (Dutch)](https://docs.google.com/forms/d/1wCBVwPQ
 * Overuse and wrong use of ARIA
 * Not WCAG compliant
 
-#### Suggestions
+#### Suggestion
 
 It is possible to fill and submit a Google Form with a screenreader but the more complex components such as linear scale and multiple choice grid can be confusing.
+
+### GetFeedback
+
+2 February 2019. Took a [3Play Media captioning survey](https://3playmedia.getfeedback.com/r/yBh4ET3z/69abffee-3cfc-44b8-989b-abd365d1da88) using JAWS with Internet Explorer 11.
+
+#### References
+
+* If the form contains a slider (such as choosing on a scale of 1 to n), it cannot be accessed with JAWS/IE11.
+* If the form uses text inputs, contrast is very low and relies on float labels (placeholder-like labels that animate up when the field is focused).
+* The final submit button has an accessible name different than the displayed text, which can be a problem for voice interface users.
+
+### Suggestion
+
+GetFeedback will pose problems for JAWS/IE11 users, low-vision users, mobility impaired users, and dictation software users.
 
 ## Content Platforms
 
