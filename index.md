@@ -92,7 +92,7 @@ It is possible to fill and submit a Google Form with a screenreader but the more
 * If the form uses text inputs, contrast is very low and relies on float labels (placeholder-like labels that animate up when the field is focused).
 * The final submit button has an accessible name different than the displayed text, which can be a problem for voice interface users.
 
-### Suggestion
+#### Suggestion
 
 GetFeedback will pose problems for JAWS/IE11 users, low-vision users, mobility impaired users, and dictation software users.
 
