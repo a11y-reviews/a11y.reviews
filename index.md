@@ -96,6 +96,19 @@ It is possible to fill and submit a Google Form with a screenreader but the more
 
 GetFeedback will pose problems for JAWS/IE11 users, low-vision users, mobility impaired users, and dictation software users.
 
+### Qualtrics
+
+2 February 2019. Took the [2019 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1RGiufc1FCJcL6B?utm_medium=so-blog&utm_source=so-owned&utm_campaign=dev-survey-2019&award=ab757334b00549cda03f8983c2ccaf4f&site=stackoverflow.com) using JAWS with Internet Explorer 11.
+
+#### References
+
+* Initial screen's instructions are hidden to JAWS/IE11; arrowing around reveals nothing more than the Next button.
+* Conveying required fields appears to rely on asterisk character, which is not part of the accessible name when spoken by JAWS.
+
+#### Suggestion
+
+Do not use Qualtrics if you expect to support screen reader users. Certainly not for WCAG 2.x compliance.
+
 ## Content Platforms
 
 This can include web content management systems or other tools that allow authors to post their writing for broad consumption on the web.
