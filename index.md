@@ -153,3 +153,17 @@ For any organization whose content needs to meet WCAG 2.x, whether by law or oth
 #### Suggestion
 
 Zoom is generally accessible.
+
+## Source Control
+
+### Github website
+
+3 February 2019. With one or two exceptions, the [Github website](https://github.com/) has good general accessibility and is usable with most Assistive Technologies (AT). Exceptions include horizontal scrolling at high zoom or magnification, use of browser default focus indication, and missing alt texts on non-essential images (like user contribution graphs).
+
+#### References
+
+[Voluntary Product Accessibility Template (VPAT) for Github](https://government.github.com/accessibility)
+
+#### Suggestion
+
+The Github website is inconvenient for magnification users, and for keyboard users with low vision, but is otherwise usable by most people. The Github team is responsive to issues relating to accessibility.
