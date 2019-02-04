@@ -29,7 +29,7 @@ Tools used for polls, surveys, or questionnaires.
 
 #### Suggestion
 
-A SurveyMonkey form is accessible to a JAWS / Internet Explorer 11 user. If you are using other SR/browser combinations, please add to this. SurveyMonkey radio buttons are hidden to users in Windows High Contrast Mode.
+A SurveyMonkey form is accessible to a JAWS / Internet Explorer 11 user. SurveyMonkey radio buttons are hidden to users in Windows High Contrast Mode.
 
 ### SurveyGizmo
 
