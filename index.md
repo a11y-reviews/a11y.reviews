@@ -25,10 +25,11 @@ Tools used for polls, surveys, or questionnaires.
 
 * Confirmed [no special adjustments made](https://twitter.com/indysigner/status/1087760016323563520) for the form to work with JAWS/IE11.
 * Users had raised issues with TypeForm, [no issues raised since moving to SurveyMonkey](https://twitter.com/indysigner/status/1087763172436701186) in response.
+* SurveyMonkey radio buttons are hidden in Windows High Contrast Mode (Edge, IE11, Firefox), meaning these users cannot identify the radio buttons nor their state (toggled or not). Raised as an [issue on this repo](https://github.com/a11y-reviews/a11y.reviews/issues/16).
 
 #### Suggestion
 
-A SurveyMonkey form is accessible to a JAWS / Internet Explorer 11 user. If you are using other SR/browser combinations, please add to this.
+A SurveyMonkey form is accessible to a JAWS / Internet Explorer 11 user. If you are using other SR/browser combinations, please add to this. SurveyMonkey radio buttons are hidden to users in Windows High Contrast Mode.
 
 ### SurveyGizmo
 
