@@ -139,7 +139,7 @@ Medium can make it difficult for some authors to identify how to structure conte
 * Medium's support pages describe [how to upload an image](https://help.medium.com/hc/en-us/articles/215679797-Images), but offer no guidance on how to support screen reader users nor users who may have been unable to load the images.
 * Pointer to [incorrect bullets](https://twitter.com/aardrian/status/1086639530856321024) in a Medium post.
 * Pointer to [incorrect headings](https://twitter.com/aardrian/status/1083355862402506752) in a Medium post.
-* Screen shot of an[incorrect table](https://twitter.com/aardrian/status/923536098734891009) in a Medium post.
+* Screen shot of an [incorrect table](https://twitter.com/aardrian/status/923536098734891009) in a Medium post.
 
 #### Suggestion
 
@@ -159,7 +159,7 @@ Zoom is generally accessible.
 
 ### Github website
 
-3 February 2019. With one or two exceptions, the [Github website](https://github.com/) has good general accessibility and is usable with most Assistive Technologies (AT). Exceptions include horizontal scrolling at high zoom or magnification, use of browser default focus indication, and missing alt texts on non-essential images (like user contribution graphs).
+3 February 2019. With one or two exceptions, the [Github website](https://github.com/) has good general accessibility and is usable with most Assistive Technologies (AT). Exceptions include horizontal scrolling at high zoom or magnification, use of browser default focus indication, and missing alt texts on non-essential images (like user contribution graphs). An overuse of aria-label with sometimes nonsensical names makes some controls a bit confusing ("Only those with link Learn more about permission levels to this repository can merge pull requests.")
 
 #### References
 
@@ -168,3 +168,25 @@ Zoom is generally accessible.
 #### Suggestion
 
 The Github website is inconvenient for magnification users, and for keyboard users with low vision, but is otherwise usable by most people. The Github team is responsive to issues relating to accessibility.
+
+## Project Management Software
+
+### Trello
+
+November 2018. Trello is generally unusable or difficult to use for some people. 
+
+This includes low-vision users who use browser zoom (everything is absolutely positioned and overlaps, hiding most of the content) and low-vision users using screen magnification software (mouse-users can get around and reach everything, but keyboard-users cannot rely on their focus to move their viewport around since Trello has its own "application" focus for its built-in keyboard shortcuts). 
+
+The keyboard shortcuts are single-character keys, causing trouble for speech recognition users (at the time of testing there was no way to change these or turn them off).
+
+Sighted keyboard users of all types aren't able to move their focus into opened popups/submenus, except for the few who have an autofocussed input inside. Focus also often seems to end up in random places after performing an action. "Star" controls only appear on mouse hover and cannot be reached with keyboard, and are not real controls but clickable spans.
+
+Screen reader users contend with lack of structure (something they could otherwise use to supplement the difficulty of using the keyboard shortcuts for navigation), unlabelled controls or controls with title attributes only.
+
+### References
+
+[Partial WCAG 2.1 mini-audit](https://stommepoes.nl/trello/trello.html).
+
+### Suggestion
+
+Avoid choosing Trello for your project management unless all team members have excellent vision and can use a pointer. Having a large monitor helps. Its main strength is being a simple, straightforward and un-opinionated management tracker or even just for keeping track of TO-DO's, where teams/owners choose their own rules and decide how complex their flows will be.
