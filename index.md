@@ -183,10 +183,10 @@ Sighted keyboard users of all types aren't able to move their focus into opened 
 
 Screen reader users contend with lack of structure (something they could otherwise use to supplement the difficulty of using the keyboard shortcuts for navigation), unlabelled controls or controls with title attributes only.
 
-### References
+#### References
 
 [Partial WCAG 2.1 mini-audit](https://stommepoes.nl/trello/trello.html).
 
-### Suggestion
+#### Suggestion
 
 Avoid choosing Trello for your project management unless all team members have excellent vision and can use a pointer. Having a large monitor helps. Its main strength is being a simple, straightforward and un-opinionated management tracker or even just for keeping track of TO-DO's, where teams/owners choose their own rules and decide how complex their flows will be.
