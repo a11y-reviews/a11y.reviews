@@ -190,3 +190,17 @@ Screen reader users contend with lack of structure (something they could otherwi
 #### Suggestion
 
 Avoid choosing Trello for your project management unless all team members have excellent vision and can use a pointer. Having a large monitor helps. Its main strength is being a simple, straightforward and un-opinionated management tracker or even just for keeping track of TO-DO's, where teams/owners choose their own rules and decide how complex their flows will be.
+
+## Collaboration Software
+
+### Slack
+
+30 May 2019. Slack’s web interface and native clients are generally accessible to skilled screen reader users.
+
+#### Suggestion
+
+Given Slack's history of accessibility issues, be certain to test with your users before rolling it out within an organization.
+
+#### References
+
+[Status Of The Accessibility Of Slack](https://marcozehe.wordpress.com/2016/01/16/status-of-the-accessibility-of-slack/)
