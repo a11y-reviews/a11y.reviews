@@ -114,6 +114,20 @@ Do not use Qualtrics if you expect to support screen reader users. Certainly not
 
 This can include web content management systems or other tools that allow authors to post their writing for broad consumption on the web.
 
+### Google AMP Stories
+
+4 September 2019. Reviewing the AMP Stories demo page, controls are unlabeled, most images are missing text alternatives, content is scattered between controls. Generally an unusable experience with a screen reader and problematic with a keyboard.
+
+#### References
+
+* [Amphora.](https://ethanmarcotte.com/wrote/amphora/) by Ethan Marcotte, 9 August 2019.
+* AMP itself has accessibility issues, as outlined in [notes from the face-to-face meeting](https://github.com/ampproject/meta-ac/blob/master/meetings/2019-03-f2f.md#accessibility) of the Advisory Committee on 28 March 2019.
+* In those same notes, acknowledgment there is no process for accessibility checking before a component is added, with a target date to have a process in place by 1 January 2020.
+
+#### Suggestion
+
+For any organization that needs to meet WCAG 2.x, whether by law or other requirements, do not use AMP Stories.
+
 ### Dev.to
 
 31 January 2019. Dev.to lets users author their content via Markdown, so they are able to use all of its structuring and semantic features (e.g. regarding headline hierarchy, quotes, images, lists). 
@@ -128,7 +142,7 @@ For any organization that needs to meet WCAG 2.x, whether by law or other requir
 
 ### Medium
 
-20 January 2019. Medium has no method to provide alternative text for images. Some authors get around this by adding a description of the image in the caption, but screen readers will often announce the file name of the image instead.
+4 September 2019. Medium now has a method to provide alternative text for images. Because it was only recently added, some authors got around this by adding a description of the image in the caption, but screen readers will often announce the file name of the image instead. Those Medium posts will not be updated unless the author decides to do so.
 
 Medium does not support tables for data grids. Authors get around this by posting screen shots of tables. These screen shots also do not have alternative text.
 
@@ -136,7 +150,8 @@ Medium can make it difficult for some authors to identify how to structure conte
 
 #### References
 
-* Medium's support pages describe [how to upload an image](https://help.medium.com/hc/en-us/articles/215679797-Images), but offer no guidance on how to support screen reader users nor users who may have been unable to load the images.
+* [Medium Supports alt Text (Mostly)](https://medium.com/@aardrian/medium-supports-alt-text-mostly-d1e53d0e21cb) by Adrian Roselli, 18 July 2019.
+* Medium's support pages describe [how to upload an image](https://help.medium.com/hc/en-us/articles/215679797-Images) and now offers brief instructions on how to add alternative text, but not how to write it.
 * Pointer to [incorrect bullets](https://twitter.com/aardrian/status/1086639530856321024) in a Medium post.
 * Pointer to [incorrect headings](https://twitter.com/aardrian/status/1083355862402506752) in a Medium post.
 * Screen shot of an [incorrect table](https://twitter.com/aardrian/status/923536098734891009) in a Medium post.
