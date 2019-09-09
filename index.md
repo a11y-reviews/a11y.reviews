@@ -219,3 +219,24 @@ Given Slack's history of accessibility issues, be certain to test with your user
 #### References
 
 [Status Of The Accessibility Of Slack](https://marcozehe.wordpress.com/2016/01/16/status-of-the-accessibility-of-slack/)
+
+## Widgets
+
+### ag-Grid
+
+9 September 2019. The ag-Grid library promises to make data tables with plenty of add-on features. It offers information on [its accessibility features and benefits](https://www.ag-grid.com/javascript-grid-accessibility/). However, controls to use the features built into columns (such as sorting, filtering, re-ordering) are inaccessible to keyboard-only and screen reader users. Further, NVDA appears to be unable to navigate out of the row that holds the column headers and into the data. Reading order is still a potential issue unless developers know to add a specific attribute to the code.
+
+#### References
+
+* [Keyboard inaccessible column controls #3340](https://github.com/ag-grid/ag-grid/issues/3340), which references Zendesk entries available only for paid ag-Grid users:
+  * AG-2472 Context/Column Menu - Focus menu when it is invoked, and allow keyboard navigation
+* [Screen reader inaccessible column controls #3341](https://github.com/ag-grid/ag-grid/issues/3341), which references Zendesk entries available only for paid ag-Grid users:
+  * AG-3223: ARIA / Accessibility / Keyboard navigation allow user to use filter and filter options by navigating with keyboard
+  * AG-2629: Accessibility - Allow screen readers to access the column headers to apply sort and filtering capabilities
+  * AG-3253: Accessibility / navigation Allow to navigate with keyboard though the context menu when it gets opened
+* [Cannot get past column headers with NVDA #3342](https://github.com/ag-grid/ag-grid/issues/3342)
+* [DOM order issues with on-demand data](https://twitter.com/aardrian/status/1167047661754683397)
+
+#### Suggestion
+
+For any organization whose content needs to meet WCAG 2.x, whether by law or other requirements, do not use ag-Grid.
