@@ -239,4 +239,17 @@ Given Slack's history of accessibility issues, be certain to test with your user
 
 #### Suggestion
 
-For any organization whose content needs to meet WCAG 2.x, whether by law or other requirements, do not use ag-Grid.
+For any organization whose site or content needs to meet WCAG 2.x, whether by law or other requirements, do not use ag-Grid.
+
+### React Datepicker
+
+9 September 2019. The ReactJS Datepicker provides some [accessibility notes](https://www.npmjs.com/package/react-datepicker#accessibility) for developers who want to know how accessible the control is, however it only speaks to keyboard support — which is not conveyed to users by default. Generally the date picker lacks accessible names for controls, keyboard support, and sufficient contrast along with some generally incorrect use of table elements.
+
+#### References
+
+* [List of 8 WCAG violations](http://adrianroselli.com/2019/07/maybe-you-dont-need-a-date-picker.html#ReactDatePicker) as part of a larger blog post.
+  * Specifically called our are failures of 1.3.1 Info and Relationships (A), 1.4.1 Use of Color (A), 1.4.11 Non-text Contrast (AA), 2.1.1 Keyboard (A), 3.3.2 Labels or Instructions (A), and 4.1.2 Name, Role, Value (A).
+
+#### Suggestion
+
+For any organization whose site or content needs to meet WCAG 2.x, whether by law or other requirements, do not use React Datepicker.
