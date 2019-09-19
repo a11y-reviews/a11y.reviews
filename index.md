@@ -253,3 +253,24 @@ For any organization whose site or content needs to meet WCAG 2.x, whether by la
 #### Suggestion
 
 For any organization whose site or content needs to meet WCAG 2.x, whether by law or other requirements, do not use React Datepicker.
+
+## Media Players
+
+### Brightcove Player
+
+19 September 2019. The Brightcove Player provides [accessibility notes](https://support.brightcove.com/brightcove-player-accessibility) that only addresses standard keyboard behaviors for buttons and makes no statement of WCAG compliance. It does recommend that the JAWS/ Chrome pairing should be avoided when using the player.
+
+#### References
+
+No bugs filed, but from a quick review:
+*	1.4.11 Non-text Contrast Level AA — the focus ring is default, but controls also have a mild glow on focus.
+* 2.4.1 Bypass Blocks Level A — the `<iframe>` used for the embed has no `title` attribute.
+*	2.4.3 Focus Order Level A — the scrubber / timeline appears after first half of controls, visually going up then back down.
+*	2.4.7 Focus Visible Level AA —	after tabbing through the controls, there are two visually hidden controls that control playback.
+*	2.5.3 Label in Name Level A — the playback rate button/menu text is not part of the accessible name.
+*	3.3.2 Labels or Instructions Level A — the discussed keyboard shortcuts are not exposed, such as in the closed-caption or playback rate controls.
+*	4.1.2 Bypass Blocks Level A — the `<iframe>` used for the embed has no `title` attribute, same as 2.4.1.
+
+#### Suggestion
+
+For any organization whose video content needs to meet WCAG 2.x, whether by law or other requirements, do not use Brightcove Player.
