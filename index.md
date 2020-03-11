@@ -53,7 +53,7 @@ Formstack may pose problems for JAWS/IE11 users, zoom users, and mobility impair
 
 ### Typeform
 
-20 January 2019. Typeform generally does not work with screen readers across platforms. Field labels are not exposed correctly, question navigation is problematic, and answers are not consistently exposed. Color contrast is below WCAG minimums.
+11 March 2020. Typeform generally does not work with screen readers across platforms. Field labels are not exposed correctly, question navigation is problematic, and answers are not consistently exposed. Color contrast is below WCAG minimums.
 
 There is no public bug tracker to follow issues.
 
@@ -65,6 +65,7 @@ There is no public bug tracker to follow issues.
 * 12 July 2016, [Twitter response saying accessibility is on a roadmap](https://twitter.com/typeform/status/752992486784700416).
 * 5 September 2016, [Typeform offers a plain HTML fallback](https://twitter.com/typeform/status/772754674621513728), screen reader user (appropriately) dismisses it.
 * 17 November 2017, [screen shot of how forms fall apart on zoom](https://twitter.com/stommepoes/status/931518521036681216).
+* 6 March 2020, in a [tweet response to a question on screen reader support](https://twitter.com/typeformhelp/status/1235887252867141632): "…we do not have any concrete plans in place for meeting WCAG accessibility standards, which includes support for screen reader technologies, but we are aware of the need for accessibility…"
 
 #### Suggestion
 
