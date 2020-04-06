@@ -161,6 +161,21 @@ Medium can make it difficult for some authors to identify how to structure conte
 
 For any organization whose content needs to meet WCAG 2.x, whether by law or other requirements, do not use Medium.
 
+### Hashnode
+
+As of Q1 2020, Hashnode is a blogging platform directed at coders (similar to Devt.to). Authors create posts in markdown. The team seems very attentive to reports of accessibility issues. At this time, it's very important that authors use accessible markdown including proper alt text, headings, and links. Keyboard operability is good but the site needs better focus visibility. Aggregated pages on the hashnode domain need better semantic structure.
+
+#### References
+
+* [Hashnode, Ytho?](https://ytho.dev/hashnode-ytho-ck7xdp9sq02ejzns1ydc4m3m8) by Paul Grenier, March 18, 2020.
+* [Hashnode, Ytho? Part 2)](https://ytho.dev/hashnode-ytho-part-2-ck7zevit3037lzns1smnvw235) by Paul Grenier, March 19, 2020.
+* [Hashnode, Ytho? (Part 3)](https://ytho.dev/hashnode-ytho-part-3-ck812d5cy03rszns1doyojw0c) by Paul Grenier, March 20, 2020.
+* [Hashnode, Ytho? (Part 4)](https://ytho.dev/hashnode-ytho-part-4-ck8es3ypa00oxz3s180hz9kew) by Paul Grenier, March 30, 2020.
+
+#### Suggestion
+
+For any organization that needs to meet WCAG 2.x, whether by law or other requirements, do not use Hashnode.
+
 ## Video Conferencing
 
 ### Zoom
