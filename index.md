@@ -222,6 +222,16 @@ Screen reader users contend with lack of structure (something they could otherwi
 
 Avoid choosing Trello for your project management unless all team members have excellent vision and can use a pointer. Having a large monitor helps. Its main strength is being a simple, straightforward and un-opinionated management tracker or even just for keeping track of TO-DO's, where teams/owners choose their own rules and decide how complex their flows will be.
 
+## Documentation Tools
+
+### Gitbook
+
+26 May 2020. [Several issues](https://gitbook.canny.io/feature-requests/p/wcag-compliance) are still opened: HTML semantic is sometimes wrong, contrast color is often too low and some labels are missing.
+
+### Notion
+
+26 May 2020. In the app, buttons have no name. VoiceOver is going inside the menu although it’s closed. Checkboxes are not read as such. The emoji or decorative images should not be read with VO.
+
 ## Collaboration Software
 
 ### Slack
