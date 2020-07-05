@@ -111,6 +111,19 @@ GetFeedback will pose problems for JAWS/IE11 users, low-vision users, mobility i
 
 Do not use Qualtrics if you expect to support screen reader users. Certainly not for WCAG 2.x compliance.
 
+### Drupal 8 Webforms
+[Drupal](https://www.drupal.org/) is an open source Content Management System (CMS) and one of the popular modules is the [Webform module](https://www.drupal.org/project/webform). Using a free service called [SimplyTest.me](https://simplytest.me/project/webform/8.x-5.x) anyone can install the Drupal Webform module online and have full access to a testing environment.  
+
+#### References
+* [Accessibility issue queue](https://www.drupal.org/project/issues/search/webform?version[]=8.x&issue_tags=Accessibility) with open & closed issues.
+* [YouTube: Introduction to Webform for Drupal 8](https://www.youtube.com/watch?reload=9&v=VncMRSwjVto&feature=youtu.be)
+* Documentation [Webform module for Drupal 8: DIY Accessibility](https://opencollective.com/webform/updates/webform-module-for-drupal-8-diy-accessibility)
+* [Accessibility Review](https://docs.google.com/spreadsheets/d/19OJCDet7RF6pXmnSEq1-5EVvQPpU8VFFuD0ADxRtKb4/edit#gid=949844770) following the model by the UC Berkeley Web Access team.
+
+#### Suggestion
+* As with Drupal in general, user testing with Zoomtext, Dragon Naturally Speaking & other assistive technology could find improvements.
+* I should be tested against WCAG 2.1 AA and possibly WCAG 2.2 AA (as should Drupal Core)
+
 ## Content Platforms
 
 This can include web content management systems or other tools that allow authors to post their writing for broad consumption on the web.
